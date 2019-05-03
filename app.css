@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+
+.menu {
+    background-color: #24292e;
+    height: 60px;
+}
+
+.main {
+    display: flex;
+    padding: 20px 80px;
+}
+.user-avatar {
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+}
